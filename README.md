@@ -153,4 +153,4 @@ pip install pandas scikit-learn matplotlib
 
 ## 👤 Autor
 
-Projeto desenvolvido como exercício de aprendizagem em **Data Science e Machine Learning**, combinando análise exploratória de dados, feature engineering, modelação preditiva e visualização de resultados.
+Projeto desenvolvido por Diogo Serra Massano aluno finalista de Engenharia Informatica do Instituto Politécnico da Guarda como exercício de aprendizagem em **Data Science e Machine Learning**, combinando análise exploratória de dados, feature engineering, modelação preditiva e visualização de resultados.
